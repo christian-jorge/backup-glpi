@@ -17,7 +17,7 @@ Este repositório contém scripts para fazer backup do banco de dados Glpi (Mari
 
 2. Execute o script `script-glpi.sh` para iniciar o processo de backup:
    ```bash
-   ./script-zabbix.sh
+   ./script-glpi.sh
    ```
 
 ## Funcionalidade do Script
