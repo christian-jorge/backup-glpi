@@ -1,7 +1,7 @@
 
 # Script de Backup para o Banco de Dados Glpi
 
-Este repositório contém scripts para fazer backup do banco de dados Zabbix (MySql) e exportar o backup via FTP.
+Este repositório contém scripts para fazer backup do banco de dados Glpi (MySql) e exportar o backup via FTP.
 
 ## Arquivos
 
